@@ -1,0 +1,19 @@
+.mainBlock{
+    font-size: 1.5em;
+}
+
+.mainTitel{
+    padding-top: 1em;
+    font-size: 0.8em;
+}
+
+#coin1, #coin2, #coin3{
+    border: 1px solid black;
+    background-color: lightblue;
+}
+
+
+
+#btnConverter{
+    float: right;
+}
